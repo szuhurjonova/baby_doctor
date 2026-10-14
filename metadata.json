@@ -1,0 +1,6 @@
+{
+  "name": "Baby Doctor",
+  "description": "Kichkintoylar salomatligini kuzatish va boshqarish bo‘yicha zamonaviy MedTech ilovasi",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
